@@ -147,12 +147,8 @@ NSString * const YCViewControllerNotificationName = @"YCViewControllerNotificati
     if (1+1+2+5+22 < 100) {
         
     }
-
     //switch
     NSInteger index = 2;
-//    测试代码
-//    if (index<2) return;
-    
     switch (index)
     {
         case 1: {
