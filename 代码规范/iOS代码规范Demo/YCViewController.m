@@ -149,8 +149,7 @@ NSString * const YCViewControllerNotificationName = @"YCViewControllerNotificati
     }
     //switch
     NSInteger index = 2;
-    switch (index)
-    {
+    switch (index) {
         case 1: {
         
         } break;
